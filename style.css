@@ -74,5 +74,9 @@ button:active {
     padding: 4px;
 }
 input[type="number"] {
-    text-align: end; 
+    text-align: center;
+    text-indent: 10px;
+}
+a{
+    text-decoration: none;
 }

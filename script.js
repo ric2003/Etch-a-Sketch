@@ -22,7 +22,7 @@ function createGrid(size) {
             gridContainer.appendChild(cell);
         }
     }
-    document.querySelector(".sizeinput").value = sizeOfContainer;
+    document.querySelector(".sizeinput").value = size;
     attachEventListeners();
 }
 
